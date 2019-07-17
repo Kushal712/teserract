@@ -1,4 +1,4 @@
-# Indian Government Issued PAN Card Optical Character Recognition (OCR) Project
+# OCR POC on govt id proofs
 
 
 brew install tesseract
